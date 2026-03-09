@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuanYitiao
-- 👀 I’m interested in robotics, system control
-- 🌱 I’m currently learning System control and mechatronics, MSc in Chalmers University of Technology
+- 👀 I’m interested in robotics, system control, embedded Linux, ROS2
+- 🌱 I was learning System control and mechatronics, MSc in Chalmers University of Technology, and Mechanical Engineering in Southwest Jiaotong University - University of Leeds Joint School
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me ...
 
