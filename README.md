@@ -12,11 +12,15 @@
 
 ## What I work with
 
-**Embedded**: C · FreeRTOS · STM32 · LIN Bus · CAN · UART · SPI · I2C · bare-metal · HAL  
+**Embedded**: C · FreeRTOS · STM32 · LIN Bus · CAN · UART · SPI · I2C · bare-metal · HAL
+
 **Robotics**: ROS2 · Linux · sensor fusion · multi-object tracking · motor control
-**Connectivity**: 4G/LTE · AWS IoT MQTT 
-**Tools**: CMake · Git · SolidWorks  
-**Languages**: C · C++ · Python · MATLAB · Simulink · LabVIEW 
+
+**Connectivity**: 4G/LTE · AWS IoT MQTT
+
+**Tools**: CMake · Git · SolidWorks
+
+**Languages**: C · C++ · Python · MATLAB · Simulink · LabVIEW
 
 ---
 
