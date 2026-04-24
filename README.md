@@ -31,7 +31,7 @@
 📍 Jönköping, Sweden · [LinkedIn](https://www.linkedin.com/in/qinghuan-liu-995171246)
 
 ---
-* Vīta brevis, ars longa, occāsiō praeceps, experīmentum perīculōsum, iūdicium difficile. *
+Vīta brevis, ars longa, occāsiō praeceps, experīmentum perīculōsum, iūdicium difficile.*
 
 <!---
 HuanYitiao/HuanYitiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
