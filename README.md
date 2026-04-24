@@ -1,7 +1,34 @@
-- 👋 Hi, I’m @HuanYitiao
-- 👀 I’m interested in robotics, system control, embedded, ROS2
-- 🌱 I was learning System control and mechatronics, MSc in Chalmers University of Technology, and Mechanical Engineering in Southwest Jiaotong University - University of Leeds Joint School
-- 💞️ I’m looking to extend my horizon
+# Wolfram Liu — Embedded & Robotics Engineer
+
+🤖 Software Engineer — Embedded Systems & Robotics
+   Building embedded C & ROS2 C++ applications for robotic platforms
+
+🎓 MSc Systems, Control & Mechatronics — Chalmers University of Technology  
+   Thesis: Multi-Object Tracking via Multi-Sensor Bernoulli Fusion @ Volvo Trucks
+
+🎓 BEng Mechanical engineering — Southwest Jiaotong University - University of Leeds Joint School
+
+---
+
+## What I work with
+
+**Embedded**: C · FreeRTOS · STM32 · LIN Bus · CAN · UART · SPI · I2C · bare-metal · HAL  
+**Robotics**: ROS2 · Linux · sensor fusion · multi-object tracking · motor control
+**Connectivity**: 4G/LTE · AWS IoT MQTT 
+**Tools**: CMake · Git · SolidWorks  
+**Languages**: C · C++ · Python · MATLAB · Simulink · LabVIEW 
+
+---
+
+## What I'm building here
+
+- 🔧 Open-source embedded tools from real production problems  
+- 🤖 Gradually reconnecting with the robotics/AI-robotics world  
+- 📡 Anything that bridges low-level hardware and intelligent systems
+
+---
+
+📍 Jönköping, Sweden · [LinkedIn](https://www.linkedin.com/in/qinghuan-liu-995171246)
 
 <!---
 HuanYitiao/HuanYitiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
